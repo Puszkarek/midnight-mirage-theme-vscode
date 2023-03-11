@@ -1,0 +1,21 @@
+{
+  "name": "midnight-mirage-theme",
+  "displayName": "midnight-mirage-theme",
+  "description": "A Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Mirage-color-theme.json"
+      }
+    ]
+  }
+}
