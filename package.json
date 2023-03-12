@@ -1,7 +1,7 @@
 {
   "name": "midnight-mirage-theme",
-  "displayName": "midnight-mirage-theme",
-  "description": "A Theme",
+  "displayName": "Midnight Mirage Theme",
+  "description": "It provides a comfortable and eye-catching coding experience that is easy on the eyes",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
