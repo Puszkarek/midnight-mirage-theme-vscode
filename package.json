@@ -2,6 +2,7 @@
   "name": "midnight-mirage-theme",
   "displayName": "Midnight Mirage Theme",
   "description": "It provides a comfortable and eye-catching coding experience that is easy on the eyes",
+  "repository": "https://github.com/Puszkarek/midnight-mirage-theme-vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
