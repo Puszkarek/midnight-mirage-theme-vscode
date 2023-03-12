@@ -61,7 +61,7 @@
         "punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#ffc280"
+        "foreground": "#fff672"
       }
     },
     {
@@ -207,25 +207,26 @@
     {
       "name": "text-highlighted",
       "scope": [
+        "keyword.operator.assignment.compound",
+        "keyword.operator.assignment"
+      ],
+      "settings": {
+        "foreground": "#f286c4"
+      }
+    },
+    {
+      "name": "text-highlighted",
+      "scope": [
         "variable.other.property",
         "variable.parameter",
         "constant.other.character-class.regexp",
         "constant.other.symbol",
         "support.function",
-        "keyword.operator.assignment.compound",
-        "keyword.operator.assignment",
         "text.variable",
         "text.bracketed"
       ],
       "settings": {
         "foreground": "#ffc280"
-      }
-    },
-    {
-      "name": "packages",
-      "scope": "token.package.keyword",
-      "settings": {
-        "foreground": "#f286c4" // TODO
       }
     },
     {
