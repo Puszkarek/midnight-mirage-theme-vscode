@@ -17,7 +17,12 @@
       {
         "label": "Midnight Mirage",
         "uiTheme": "vs-dark",
-        "path": "./themes/Midnight Mirage-color-theme.json"
+        "path": "./themes/default.json"
+      },
+      {
+        "label": "Midnight Mirage Darken",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darken.json"
       }
     ]
   }
