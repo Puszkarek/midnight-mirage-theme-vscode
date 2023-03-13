@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Syntax-example](https://github.com/Puszkarek/midnight-mirage-theme-vscode/blob/main/assets/syntax-example.png)
+![Syntax-example](assets/syntax-example.png)
 
 # Midnight Mirage Theme
 
