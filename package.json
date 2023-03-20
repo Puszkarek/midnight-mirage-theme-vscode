@@ -5,7 +5,7 @@
   "repository": "https://github.com/Puszkarek/midnight-mirage-theme-vscode",
   "publisher": "Puszkarek",
   "icon": "assets/icon.png",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -17,12 +17,12 @@
       {
         "label": "Midnight Mirage",
         "uiTheme": "vs-dark",
-        "path": "./themes/default.json"
+        "path": "./themes/default-color-theme.json"
       },
       {
         "label": "Midnight Mirage Darken",
         "uiTheme": "vs-dark",
-        "path": "./themes/darken.json"
+        "path": "./themes/darken-color-theme.json"
       }
     ]
   }
