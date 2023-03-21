@@ -18,11 +18,6 @@
         "label": "Midnight Mirage",
         "uiTheme": "vs-dark",
         "path": "./themes/default-color-theme.json"
-      },
-      {
-        "label": "Midnight Mirage Darken",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darken-color-theme.json"
       }
     ]
   }
