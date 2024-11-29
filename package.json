@@ -15,6 +15,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Midnight Synth Wave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/synth-wave-color-theme.json"
+      },
+      {
         "label": "Midnight Mirage",
         "uiTheme": "vs-dark",
         "path": "./themes/default-color-theme.json"
