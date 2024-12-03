@@ -12,3 +12,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.7] - 2024-11-18
 - Fixed visual bugs on backgrounds and missing colors
+
+## [0.1.0] - 2024-12-03
+- Added an alternative color scheme with a synthwave inspiration
