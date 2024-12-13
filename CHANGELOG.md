@@ -14,4 +14,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Fixed visual bugs on backgrounds and missing colors
 
 ## [0.1.0] - 2024-12-03
-- Added an alternative color scheme with a synthwave inspiration
+- Added an alternative color scheme with a synth-wave inspiration
+
+## [0.1.1] - 2024-12-13
+- Changed color schemas to be more consistent and visually appealing
+- Fixed selection color not being visible
