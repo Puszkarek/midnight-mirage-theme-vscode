@@ -19,3 +19,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.1] - 2024-12-13
 - Changed color schemas to be more consistent and visually appealing
 - Fixed selection color not being visible
+
+## [0.1.2] - 2025-03-17
+- Added a new color schema variant
