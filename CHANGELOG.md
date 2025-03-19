@@ -25,3 +25,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.2] - 2025-03-18
 - Added fix for retro color schema
+
+## [0.1.2] - 2025-03-18
+- Added fix for retro color schema (again)
