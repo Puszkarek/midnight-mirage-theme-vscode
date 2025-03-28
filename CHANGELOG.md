@@ -23,8 +23,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.2] - 2025-03-17
 - Added a new color schema variant
 
-## [0.1.2] - 2025-03-18
+## [0.1.3] - 2025-03-18
 - Added fix for retro color schema
 
-## [0.1.2] - 2025-03-18
+## [0.1.4] - 2025-03-18
 - Added fix for retro color schema (again)
+
+## [0.1.5] - 2025-03-28
+- Improve active tab background color to be more visible
+
