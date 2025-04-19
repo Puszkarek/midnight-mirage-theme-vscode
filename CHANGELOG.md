@@ -32,3 +32,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.5] - 2025-03-28
 - Improve active tab background color to be more visible
 
+## [0.1.6] - 2025-04-19
+- Moved retro color schema to a separate repository
+
